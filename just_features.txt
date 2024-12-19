@@ -1,0 +1,554 @@
+genero estado_civilzona_residenciaimc     fumadorclass_etaria
+feminino casado    suburbana          25.6sim    adulto_meia_idade
+feminino casado    suburbana          23.1sim    adulto_senior
+masculinosolteiro  suburbana          26.3nao    adolescente
+feminino solteiro  suburbana           27nao     adolescente
+feminino casado    rural              32.6nao    adulto_senior
+feminino solteiro  rural              25.4nao    adulto_jovem
+masculinoviuvo     rural              18.9nao    adulto_jovem
+masculinocasado    urbana             28.4sim    adulto_meia_idade
+masculinocasado    urbana             32.3nao    adulto_meia_idade
+feminino separado urbana               34nao     adulto_senior
+feminino solteiro  urbana             27.7sim    adolescente
+feminino casado    urbana             33.8nao    adulto_senior
+feminino separado urbana              33.6sim    adulto_jovem
+feminino solteiro  urbana             37.4nao    adulto_senior
+feminino separado rural               35.6sim    adulto_meia_idade
+masculinoviuvo     urbana              38sim     adulto_jovem
+feminino separado suburbana           34.2nao    adulto_jovem
+feminino solteiro  urbana             27.4nao    adulto_senior
+masculinocasado    rural              29.8nao    adulto_jovem
+masculinocasado    suburbana          23.1sim    adulto_senior
+feminino casado    urbana             33.3nao    adulto_meia_idade
+masculinosolteiro  suburbana          30.3nao    adolescente
+masculinocasado    suburbana          34.1nao    adulto_senior
+feminino solteiro  rural              31.8nao    adolescente
+feminino casado    urbana             30.5nao    adulto_jovem
+feminino solteiro  suburbana          42.2sim    adolescente
+masculinocasado    urbana             36.3nao    idoso
+masculinoseparado rural               26.7sim    idoso
+feminino casado    urbana              32nao     adulto_meia_idade
+masculinosolteiro  urbana             31.8nao    adulto_senior
+masculinoseparado rural               19.3nao    adulto_meia_idade
+feminino solteiro  suburbana          39.6nao    adulto_senior
+masculinocasado    urbana              34nao     adulto_meia_idade
+masculinosolteiro  urbana             31.5nao    adulto_senior
+feminino solteiro  urbana             22.4nao    adulto_jovem
+masculinosolteiro  urbana             36.9nao    adulto_senior
+feminino separado urbana              34.7nao    adulto_meia_idade
+masculinoviuvo     urbana             30.3nao    adulto_jovem
+feminino separado suburbana           26.9nao    adulto_jovem
+feminino casado    urbana             23.5sim    adulto_meia_idade
+masculinocasado    urbana             30.9nao    adulto_jovem
+masculinoseparado rural               27.9nao    adulto_senior
+feminino casado    rural              30.4nao    adulto_jovem
+masculinocasado    urbana             32.9nao    adulto_jovem
+feminino solteiro  urbana             33.1nao    adulto_senior
+feminino separado rural               32.2nao    adulto_senior
+masculinoseparado urbana              33.5sim    adulto_senior
+feminino casado    rural              42.5sim    jovem
+masculinosolteiro  suburbana          29.6nao    adulto_senior
+feminino solteiro  urbana             24.8nao    adolescente
+masculinosolteiro  urbana              32nao     jovem
+masculinoseparado urbana              35.4sim    jovem
+feminino casado    rural              29.1nao    adulto_senior
+feminino casado    rural              32.4nao    adulto_senior
+feminino separado suburbana           36.2sim    adulto_jovem
+feminino casado    urbana             36.6nao    adulto_senior
+feminino separado rural               27.4nao    adulto_meia_idade
+masculinosolteiro  urbana             21.4nao    adulto_meia_idade
+masculinoseparado urbana              39.4nao    adulto_senior
+feminino casado    urbana             23.4nao    adulto_meia_idade
+feminino separado rural               21.8nao    adulto_jovem
+feminino casado    rural              38.6nao    adulto_senior
+masculinoseparado suburbana           39.5nao    adulto_jovem
+masculinocasado    rural              30.1nao    jovem
+feminino separado urbana              23.5nao    adulto_meia_idade
+feminino viuvo     suburbana          29.6nao    adulto_meia_idade
+feminino solteiro  urbana             27.2nao    adulto_senior
+masculinocasado    rural              25.7nao    jovem
+feminino solteiro  urbana             31.7nao    idoso
+masculinoseparado   suburbana   31.9sim   adulto_jovem
+masculinoviuvo      urbana      35.5sim   adulto_jovem
+feminino casado     rural       33.2nao   adulto_meia_idade
+masculinoviuvo      urbana      36.2sim   adulto_jovem
+masculinosolteiro   urbana      20.5nao   adolescente
+feminino viuvo      urbana      30.9nao   adulto_jovem
+masculinoseparado   urbana      30.5nao   adulto_jovem
+masculinoseparado   urbana      33.5nao   adulto_senior
+feminino solteiro   rural       31.3nao   adolescente
+feminino solteiro   urbana      29.8nao   adulto_meia_idade
+masculinosolteiro   urbana      33.1nao   idoso
+masculinocasado     urbana       33nao    adulto_jovem
+feminino casado     urbana      20.2nao   adulto_senior
+feminino casado     suburbana   37.6nao   adulto_senior
+feminino separado   suburbana   38.1sim   adulto_meia_idade
+feminino separado   suburbana   29.3nao   adulto_meia_idade
+masculinosolteiro   urbana      35.5nao   adulto_jovem
+masculinosolteiro   urbana      37.8nao   adulto_senior
+feminino solteiro   urbana      26.7nao   adulto_meia_idade
+feminino solteiro   urbana      21.6nao   adulto_jovem
+feminino separado   urbana      38.8sim   adulto_meia_idade
+feminino solteiro   urbana      27.4nao   jovem
+masculinocasado     suburbana   31.2sim   adulto_jovem
+masculinoviuvo      urbana      17.8nao   adulto_jovem
+feminino separado   rural       23.1nao   adulto_jovem
+masculinosolteiro   urbana      31.2nao   jovem
+feminino casado     rural       36.9nao   adulto_jovem
+masculinosolteiro   suburbana   33.6nao   adolescente
+feminino separado   suburbana    42nao    adulto_jovem
+masculinosolteiro   rural        26nao    adulto_jovem
+feminino separado   suburbana   24.5sim   jovem
+masculinoseparado   rural        30nao    adulto_meia_idade
+masculinoseparado   urbana      35.3sim   adulto_jovem
+masculinocasado     suburbana   26.6nao   adulto_senior
+masculinocasado     urbana      27.4nao   idoso
+masculinocasado     urbana      24.8nao   idoso
+masculinoseparado   urbana      35.3sim   adulto_jovem
+masculinosolteiro   rural       40.7nao   adulto_senior
+masculinoviuvo      suburbana   41.7sim   adulto_senior
+feminino separado   rural       41.5nao   adulto_meia_idade
+feminino solteiro   suburbana   26.6nao   adulto_jovem
+masculinocasado     urbana      25.7nao   adulto_meia_idade
+masculinosolteiro   rural       25.3nao   adolescente
+feminino solteiro   urbana      27.9nao   adolescente
+masculinocasado     suburbana   32.3nao   adulto_meia_idade
+feminino casado     urbana      26.9nao   adulto_senior
+masculinoseparado   suburbana   26.4nao   adulto_meia_idade
+masculinosolteiro   suburbana    37nao    jovem
+feminino separado   rural       27.3nao   adulto_meia_idade
+feminino casado     urbana      23.5sim   adulto_jovem
+masculinocasado     urbana      34.6sim   adulto_jovem
+feminino solteiro   urbana      28.7nao   adolescente
+feminino solteiro   urbana      28.4nao   adulto_senior
+feminino separado   suburbana   26.4sim   idoso
+masculinoseparado   urbana      39.4nao   adulto_senior
+feminino casado     urbana      33.8sim   idoso
+masculinocasado     suburbana   38.3nao   adulto_meia_idade
+feminino viuvo      suburbana   29.7nao   adulto_meia_idade
+feminino solteiro   suburbana   37.9nao   adulto_meia_idade
+masculinosolteiro   suburbana   38.4nao   adulto_senior
+masculinocasado     urbana      29.8nao   adulto_meia_idade
+feminino solteiro   urbana      33.5nao   adulto_senior
+feminino solteiro   rural       30.4nao   jovem
+feminino casado     suburbana   36.5nao   adulto_jovem
+feminino separado   suburbana   26.6sim   adulto_meia_idade
+masculinoseparado   suburbana   40.3sim   jovem
+feminino casado     urbana      37.3nao   adulto_jovem
+masculinoseparado   urbana      37.6nao   adulto_senior
+feminino solteiro   urbana      24.6nao   adolescente
+feminino separado   suburbana   38.4sim   adulto_meia_idade
+masculinosolteiro   urbana      22.1nao   adulto_meia_idade
+feminino casado     rural       19.9nao   adulto_meia_idade
+feminino solteiro   urbana      26.5nao   adulto_jovem
+masculinocasado     urbana      32.4nao   adulto_meia_idade
+feminino casado     rural       23.3nao   adulto_jovem
+feminino solteiro   suburbana   39.7nao   adolescente
+masculinosolteiro   rural       39.3nao   adolescente
+masculinocasado     urbana      25.8nao   adulto_meia_idade
+masculinoviuvo      urbana      34.4sim   adulto_meia_idade
+masculinosolteiro   suburbana   44.9sim   adolescente
+masculinoseparado   urbana      33.7nao   adulto_jovem
+masculinosolteiro   suburbana   29.6nao   adulto_senior
+feminino viuvo      suburbana   40.5sim   adulto_meia_idade
+masculinocasado     urbana      35.3nao   adulto_meia_idade
+masculinocasado     suburbana   37.5nao   adulto_jovem
+feminino casado     rural       29.5nao   adulto_jovem
+masculinosolteiro   urbana      40.4nao   adulto_senior
+feminino solteiro   urbana      39.3nao   idoso
+masculinoviuvo      urbana      28.5nao   adulto_meia_idade
+feminino separado   suburbana   37.9sim   adulto_senior
+feminino separado   urbana      27.6nao   adulto_senior
+masculinocasado     urbana      25.7nao   adulto_meia_idade
+feminino solteiro   rural       33.3nao   adolescente
+feminino solteiro   urbana      36.5nao   adolescente
+masculinosolteiro   urbana      25.5nao   adulto_senior
+masculinoviuvo      rural       33.7nao   idoso
+feminino viuvo      rural       35.8nao   idoso
+feminino separado   suburbana   29.7nao   adulto_jovem
+feminino solteiro   urbana      28.7nao   adulto_senior
+feminino solteiro   rural       30.3nao   jovem
+feminino separado   urbana      42.4nao   adulto_jovem
+feminino casado     suburbana   29.3nao   adulto_meia_idade
+feminino casado     suburbana   29.8nao   adulto_meia_idade
+feminino separado   suburbana   23.1nao   adulto_jovem
+masculinoseparado   rural       26.4sim   adulto_meia_idade
+masculinocasado     rural       27.6nao   adulto_jovem
+feminino casado     urbana      25.8nao   adulto_meia_idade
+masculinocasado     suburbana   38.8nao   adulto_jovem
+feminino solteiro   suburbana   36.8sim   adolescente
+feminino separado   suburbana   46.1nao   adulto_meia_idade
+feminino casado     urbana       36nao    adulto_senior
+masculinocasado     suburbana   24.6sim   adulto_jovem
+masculinosolteiro   urbana      23.9sim   adulto_jovem
+masculinocasado     rural       30.7sim   adulto_meia_idade
+feminino solteiro   urbana      28.9nao   adulto_jovem
+masculinoviuvo      urbana      36.4sim   adulto_jovem
+masculinocasado     suburbana   34.3nao   adulto_jovem
+feminino solteiro   urbana      34.7sim   adolescente
+masculinoviuvo      suburbana   41.8sim   adulto_senior
+feminino separado   suburbana   45.3nao   adulto_meia_idade
+feminino casado     suburbana   27.9nao   adulto_meia_idade
+masculinoseparado   urbana      32.2nao   jovem
+masculinosolteiro   rural        32nao    idoso
+feminino solteiro   rural       17.1nao   adulto_jovem
+masculinosolteiro   urbana      20.4nao   adolescente
+masculinocasado     urbana      27.9sim   adulto_jovem
+feminino viuvo      urbana      32.2sim   idoso
+masculinosolteiro   urbana      28.5nao   adolescente
+masculinosolteiro   rural       26.3nao   adolescente
+feminino solteiro   suburbana   27.9nao   adulto_jovem
+masculinocasado     urbana      22.8sim   adulto_jovem
+feminino casado     urbana      33.6nao   adulto_senior
+masculinocasado     rural        30sim    adulto_meia_idade
+masculinoseparado   suburbana   42.1sim   adulto_jovem
+masculinocasado     urbana      28.3sim   jovem
+feminino solteiro   urbana      30.7nao   adolescente
+feminino viuvo      suburbana   43.9sim   adulto_meia_idade
+feminino casado     urbana      34.2nao   adulto_meia_idade
+masculinosolteiro   rural        32nao    jovem
+feminino casado     suburbana   23.7nao   adulto_jovem
+feminino casado     urbana       30nao    idoso
+feminino solteiro   suburbana   24.4nao   adulto_jovem
+feminino viuvo      rural       35.1sim   adulto_senior
+feminino casado     urbana      33.9nao   adulto_meia_idade
+masculinoseparado   suburbana   36.4sim   adulto_meia_idade
+masculinoseparado   rural       31.5nao   adulto_meia_idade
+feminino solteiro   suburbana   36.4nao   idoso
+masculinosolteiro   urbana      37.2nao   jovem
+masculinosolteiro   urbana      28.8nao   adulto_senior
+masculinocasado     urbana      25.9sim   jovem
+masculinoviuvo      urbana      38.3nao   idoso
+masculinoviuvo      urbana      35.3sim   adulto_meia_idade
+masculinosolteiro   urbana      39.4nao   adulto_meia_idade
+feminino casado     urbana      27.5nao   adulto_meia_idade
+feminino solteiro   urbana      29.6nao   jovem
+feminino solteiro   rural        29nao    jovem
+masculinocasado     rural       33.5sim   adulto_jovem
+masculinoseparado   rural       33.6nao   adulto_meia_idade
+masculinocasado     urbana      28.7sim   adulto_jovem
+feminino casado     rural       27.9nao   adulto_meia_idade
+feminino separado   suburbana   29.3nao   adulto_meia_idade
+feminino viuvo      suburbana   36.3nao   adulto_meia_idade
+feminino separado   suburbana   26.3sim   idoso
+masculinoseparado   rural       33.4nao   adulto_meia_idade
+masculinocasado     suburbana   35.5nao   adulto_meia_idade
+masculinosolteiro   urbana      35.5nao   adulto_senior
+masculinocasado     urbana      24.4nao   adulto_jovem
+masculinosolteiro   urbana       27nao    adulto_jovem
+masculinocasado     rural       29.4nao   adulto_jovem
+masculinosolteiro   urbana       28nao    adolescente
+masculinosolteiro   rural       27.5sim   adolescente
+masculinoseparado   urbana      38.6nao   adulto_jovem
+masculinosolteiro   suburbana   26.7nao   jovem
+masculinoviuvo      urbana      26.6nao   adulto_jovem
+feminino casado     urbana      21.4nao   adulto_senior
+feminino solteiro   suburbana   31.7nao   adulto_meia_idade
+masculinocasado     urbana      23.9nao   adulto_jovem
+feminino casado     suburbana   25.2sim   adulto_senior
+masculinocasado     urbana      30.6sim   adulto_meia_idade
+feminino casado     urbana      36.3nao   adulto_senior
+feminino solteiro   urbana      29.9nao   adulto_meia_idade
+masculinocasado     suburbana   37.3nao   adulto_meia_idade
+feminino separado   suburbana   27.6nao   adulto_meia_idade
+masculinocasado     urbana      37.2nao   adulto_meia_idade
+feminino solteiro   suburbana    40nao    adulto_meia_idade
+feminino solteiro   urbana      28.4nao   adolescente
+masculinocasado     suburbana   37.5nao   adulto_meia_idade
+feminino casado     rural       24.9sim   adulto_meia_idade
+masculinoviuvo      urbana      36.4sim   adulto_meia_idade
+feminino solteiro   urbana      30.3nao   adulto_senior
+feminino casado     suburbana   32.7sim   jovem
+feminino solteiro   rural       26.7nao   jovem
+feminino solteiro   rural       40.5nao   adulto_senior
+feminino solteiro   urbana      34.9nao   jovem
+masculinosolteiro   rural       26.2nao   adulto_meia_idade
+masculinoseparado   suburbana   35.4sim   adulto_jovem
+feminino casado     rural       31.7nao   adulto_senior
+masculinosolteiro   suburbana   29.4nao   adolescente
+masculinocasado     urbana      23.5nao   jovem
+masculinocasado     urbana      31.1nao   adulto_meia_idade
+masculinosolteiro   rural        35nao    adulto_jovem
+feminino casado     urbana      30.7nao   adulto_senior
+feminino casado     urbana      24.5nao   adulto_senior
+feminino viuvo      suburbana   34.3nao   adulto_jovem
+masculinoviuvo      urbana      31.2nao   adulto_meia_idade
+masculinosolteiro   suburbana   33.6nao   adulto_meia_idade
+masculinocasado     suburbana   32.1nao   adulto_senior
+masculinosolteiro   urbana      30.7nao   adolescente
+masculinocasado     suburbana   30.5nao   adulto_meia_idade
+masculinosolteiro   urbana      23.9sim   adulto_jovem
+feminino separado   rural       35.3sim   adulto_meia_idade
+feminino casado     urbana      22.7sim   adulto_meia_idade
+masculinoseparado   urbana      32.7sim   jovem
+feminino solteiro   urbana      29.6nao   jovem
+feminino solteiro   rural       36.5sim   jovem
+feminino separado   suburbana   25.3nao   idoso
+masculinoseparado   suburbana    36nao    adulto_meia_idade
+feminino casado     suburbana   23.9nao   adulto_meia_idade
+feminino solteiro   urbana      24.2nao   jovem
+feminino solteiro   urbana      39.6nao   idoso
+masculinoviuvo      urbana      30.8nao   adulto_meia_idade
+feminino casado     urbana      26.2nao   adulto_meia_idade
+masculinosolteiro   suburbana   27.1sim   adulto_jovem
+feminino separado   urbana      28.9nao   adulto_meia_idade
+masculinosolteiro   suburbana   26.5nao   adulto_senior
+feminino separado   urbana      28.5nao   adulto_jovem
+feminino solteiro   rural       20.4sim   jovem
+masculinoviuvo      urbana      31.1nao   adulto_meia_idade
+feminino solteiro   urbana      22.5nao   jovem
+masculinoseparado   urbana      29.5nao   adulto_meia_idade
+feminino solteiro   urbana      24.4nao   adolescente
+feminino separado   urbana      37.4nao   adulto_senior
+masculinocasado     urbana      24.6nao   idoso
+feminino separado   suburbana   31.8nao   adulto_senior
+masculinoviuvo      suburbana   31.3nao   idoso
+feminino solteiro   rural       26.1nao   adolescente
+feminino separado   urbana      32.7nao   adulto_jovem
+feminino separado   rural       30.8sim   adulto_meia_idade
+masculinocasado     rural       29.2nao   adulto_jovem
+feminino separado   rural       33.5nao   adulto_meia_idade
+feminino casado     rural       28.9nao   adulto_senior
+feminino solteiro   urbana      20.6nao   adolescente
+feminino separado   urbana      34.6nao   adulto_jovem
+masculinosolteiro   suburbana   36.8nao   jovem
+feminino casado     suburbana   29.8nao   adulto_jovem
+masculinoviuvo      urbana      21.9nao   adulto_meia_idade
+feminino solteiro   rural       33.4nao   adulto_senior
+feminino solteiro   suburbana    28nao    jovem
+masculinoseparado   urbana      28.4nao   jovem
+feminino casado     rural       24.6nao   adulto_jovem
+masculinosolteiro   suburbana   33.7nao   jovem
+feminino casado     urbana      44.5nao   adulto_senior
+feminino solteiro   urbana      39.5nao   adolescente
+masculinocasado     urbana      27.4nao   adulto_meia_idade
+masculinocasado     urbana      26.7sim   adulto_senior
+feminino solteiro   urbana      26.8nao   adulto_senior
+feminino solteiro   suburbana   31.7nao   jovem
+masculinocasado     urbana      34.6nao   adulto_meia_idade
+masculinocasado     suburbana   24.3nao   adulto_meia_idade
+feminino casado     suburbana   27.7nao   adulto_meia_idade
+feminino casado     suburbana   32.9nao   adulto_jovem
+masculinosolteiro   urbana      35.5nao   adolescente
+masculinosolteiro   rural       25.9nao   adulto_senior
+masculinocasado     rural       29.8sim   adulto_meia_idade
+feminino solteiro   rural       17.3nao   adulto_jovem
+feminino viuvo      urbana      32.7nao   adulto_meia_idade
+masculinoviuvo      urbana      28.9nao   adulto_meia_idade
+masculinoseparado   urbana       31nao    adulto_senior
+masculinosolteiro   urbana      22.5nao   adolescente
+feminino solteiro   urbana      33.4nao   adulto_jovem
+feminino casado     urbana      26.4nao   adulto_meia_idade
+masculinosolteiro   urbana      31.4nao   adulto_meia_idade
+masculinoviuvo      urbana      26.1nao   adulto_meia_idade
+masculinocasado     suburbana   20.3nao   adulto_meia_idade
+feminino solteiro   urbana      40.7nao   adolescente
+masculinocasado     urbana      45.9nao   adulto_jovem
+feminino viuvo      suburbana   38.1nao   idoso
+masculinocasado     suburbana   33.7nao   adulto_senior
+masculinocasado     urbana      32.7nao   adulto_senior
+feminino casado     urbana       31nao    adulto_jovem
+feminino viuvo      urbana      28.5nao   adulto_meia_idade
+
+feminino casado     urbana      25.5nao   adulto_meia_idade
+feminino separado   rural       30.5nao   adulto_senior
+masculinosolteiro   urbana      32.9nao   jovem
+masculinoseparado   urbana      36.3nao   adulto_meia_idade
+feminino solteiro   urbana      35.4nao   adulto_meia_idade
+feminino casado     urbana      34.3nao   adulto_jovem
+masculinosolteiro   urbana      26.4nao   adulto_meia_idade
+masculinocasado     suburbana   33.2sim   adulto_jovem
+feminino casado     urbana      18.5sim   adulto_meia_idade
+feminino viuvo      urbana      28.5nao   adulto_meia_idade
+masculinocasado     suburbana   21.2nao   adulto_senior
+masculinocasado     urbana      28.2sim   adulto_jovem
+masculinocasado     rural       24.9nao   adulto_meia_idade
+masculinoviuvo      rural        34nao    idoso
+feminino casado     rural       20.4sim   adulto_meia_idade
+feminino casado     rural        22nao    adulto_meia_idade
+masculinocasado     suburbana   30.9nao   jovem
+feminino casado     suburbana   27.9sim   adulto_jovem
+feminino solteiro   urbana      25.6nao   adulto_meia_idade
+masculinosolteiro   rural       30.8nao   adulto_jovem
+masculinocasado     urbana      33.5sim   adulto_meia_idade
+masculinocasado     rural       39.7nao   adulto_jovem
+masculinocasado     urbana      34.1sim   adulto_jovem
+masculinoseparado   urbana      39.8sim   idoso
+masculinosolteiro   rural       25.2nao   adulto_senior
+masculinosolteiro   urbana      34.8sim   adolescente
+masculinocasado     suburbana   34.6nao   adulto_meia_idade
+feminino viuvo      urbana      29.2nao   adulto_meia_idade
+feminino casado     urbana      36.8nao   adulto_senior
+feminino solteiro   urbana      20.5nao   adulto_senior
+feminino casado     urbana       26nao    adulto_meia_idade
+feminino separado   urbana      21.3nao   adulto_meia_idade
+masculinosolteiro   suburbana   29.3nao   adolescente
+feminino solteiro   rural       28.5nao   adulto_jovem
+feminino solteiro   rural       25.2nao   jovem
+masculinoseparado   suburbana    28nao    adulto_senior
+feminino solteiro   suburbana   31.5nao   jovem
+masculinosolteiro   urbana      30.5nao   adolescente
+feminino separado   urbana      27.1sim   idoso
+masculinocasado     suburbana   35.7sim   adulto_meia_idade
+masculinocasado     urbana      36.4sim   idoso
+feminino casado     suburbana   29.2nao   adulto_meia_idade
+masculinoseparado   urbana      22.6nao   adulto_jovem
+masculinosolteiro   rural       26.2nao   adulto_meia_idade
+feminino separado   urbana       36nao    adulto_senior
+masculinoviuvo      urbana      25.6nao   adulto_meia_idade
+feminino solteiro   urbana      32.9nao   idoso
+masculinosolteiro   urbana      35.1sim   adolescente
+feminino casado     urbana      19.9nao   adulto_senior
+feminino solteiro   suburbana   39.6nao   jovem
+feminino solteiro   urbana      25.6nao   adulto_meia_idade
+feminino casado     urbana      23.9nao   adulto_jovem
+masculinosolteiro   urbana      26.2sim   adolescente
+masculinoseparado   suburbana   32.7nao   adulto_senior
+feminino separado   urbana       31nao    adulto_jovem
+masculinoseparado   urbana      31.3nao   adulto_jovem
+masculinosolteiro   urbana      31.2nao   adulto_jovem
+masculinosolteiro   suburbana   23.3nao   jovem
+feminino viuvo      urbana      32.6nao   adulto_meia_idade
+masculinocasado     rural       25.6nao   jovem
+masculinosolteiro   urbana      19.5sim   adulto_meia_idade
+masculinoviuvo      rural       36.9nao   adulto_meia_idade
+masculinosolteiro   urbana      20.2nao   adolescente
+masculinosolteiro   urbana      30.4nao   adolescente
+masculinosolteiro   rural       36.6nao   idoso
+masculinosolteiro   rural       21.4nao   adolescente
+feminino casado     rural       25.1sim   adulto_meia_idade
+masculinocasado     suburbana   37.4nao   adulto_meia_idade
+feminino solteiro   rural       21.9nao   jovem
+feminino solteiro   urbana      25.7nao   adulto_meia_idade
+
+masculinocasado     rural       22.5nao   adulto_meia_idade
+masculinosolteiro   suburbana   23.1nao   adolescente
+masculinosolteiro   urbana      31.7nao   adulto_senior
+masculinosolteiro   urbana      36.9sim   adolescente
+masculinoseparado   suburbana   33.7sim   idoso
+masculinosolteiro   rural       23.6nao   adolescente
+masculinosolteiro   rural       22.8sim   adulto_jovem
+feminino casado     urbana      41.2nao   adulto_meia_idade
+feminino separado   suburbana   36.2sim   adulto_jovem
+feminino solteiro   suburbana   35.7nao   adulto_jovem
+masculinoseparado   urbana      25.7nao   adulto_jovem
+feminino solteiro   rural       35.8nao   idoso
+feminino casado     suburbana   43.2nao   adulto_jovem
+masculinoseparado   suburbana   35.2sim   idoso
+feminino casado     rural        26sim    adulto_meia_idade
+masculinoseparado   urbana      21.3nao   adulto_senior
+feminino viuvo      urbana      23.9nao   idoso
+feminino casado     rural       19.2sim   adulto_jovem
+masculinoviuvo      rural       23.6nao   idoso
+masculinocasado     suburbana   24.3nao   adulto_meia_idade
+feminino casado     urbana      38.2nao   adulto_jovem
+feminino casado     urbana      28.6nao   adulto_meia_idade
+masculinoviuvo      rural       41.2nao   adulto_meia_idade
+feminino solteiro   suburbana   42.1nao   adulto_senior
+masculinocasado     urbana      40.2nao   adulto_meia_idade
+masculinocasado     rural       31.9nao   adulto_meia_idade
+masculinoviuvo      urbana      37.2nao   idoso
+masculinosolteiro   urbana      31.6nao   adulto_meia_idade
+feminino casado     rural       30.7nao   adulto_jovem
+feminino casado     urbana      19.9sim   adulto_jovem
+feminino solteiro   suburbana   39.6nao   adulto_senior
+masculinocasado     rural       22.6nao   adulto_meia_idade
+feminino separado   urbana      23.5sim   adulto_senior
+masculinoseparado   suburbana   39.4nao   adulto_jovem
+feminino solteiro   rural       26.6nao   adulto_senior
+feminino solteiro   rural       28.3nao   adolescente
+masculinocasado     rural       29.5nao   adulto_meia_idade
+feminino solteiro   urbana      25.2nao   adulto_senior
+masculinocasado     suburbana   35.1sim   adulto_meia_idade
+feminino viuvo      urbana      33.7nao   adulto_jovem
+masculinosolteiro   suburbana   29.1sim   adulto_jovem
+feminino separado   urbana      19.9nao   adulto_jovem
+masculinocasado     rural       27.6nao   adulto_jovem
+masculinoseparado   suburbana    41sim    idoso
+masculinoviuvo      rural       36.8nao   idoso
+masculinocasado     suburbana   24.5sim   adulto_jovem
+masculinoviuvo      suburbana   33.2nao   adulto_jovem
+masculinocasado     urbana      27.2sim   adulto_jovem
+masculinoseparado   suburbana   32.8nao   adulto_senior
+feminino separado   suburbana   37.6nao   adulto_senior
+masculinoseparado   urbana      28.6nao   adulto_jovem
+feminino casado     urbana      29.4nao   adulto_meia_idade
+masculinoseparado   suburbana   29.3nao   adulto_jovem
+masculinocasado     suburbana    44nao    adulto_meia_idade
+masculinosolteiro   suburbana   26.4nao   adolescente
+feminino separado   rural       27.4nao   adulto_meia_idade
+feminino viuvo      urbana      26.4nao   adulto_jovem
+feminino solteiro   urbana      25.1nao   idoso
+masculinocasado     urbana      29.9sim   adulto_jovem
+feminino solteiro   urbana      37.1nao   adulto_senior
+feminino solteiro   urbana       33nao    adulto_meia_idade
+masculinoseparado   suburbana   46.8nao   adulto_jovem
+feminino solteiro   urbana      23.5nao   adolescente
+feminino solteiro   urbana      32.3nao   adolescente
+feminino solteiro   rural        31nao    adulto_jovem
+feminino solteiro   urbana      30.2sim   adolescente
+feminino casado     urbana      34.6nao   adulto_senior
+masculinoseparado   urbana      29.2nao   adulto_senior
+masculinocasado     rural       29.8nao   adulto_meia_idade
+masculinosolteiro   urbana      28.3nao   idoso
+feminino solteiro   urbana      39.5nao   idoso
+masculinocasado     suburbana   43.9nao   adulto_meia_idade
+feminino solteiro   urbana      26.3nao   adulto_meia_idade
+feminino casado     urbana       33nao    adulto_meia_idade
+feminino casado     suburbana   36.7nao   adulto_meia_idade
+masculinoseparado   urbana      33.7nao   adulto_senior
+feminino casado     urbana      25.1nao   adulto_meia_idade
+masculinosolteiro   suburbana    42nao    jovem
+feminino solteiro   suburbana   39.9nao   adulto_meia_idade
+feminino separado   rural       27.6nao   adulto_meia_idade
+masculinosolteiro   rural       30.7nao   adulto_jovem
+feminino casado     urbana      26.1nao   adulto_meia_idade
+masculinosolteiro   suburbana   25.1nao   adulto_meia_idade
+feminino solteiro   urbana      23.1nao   adulto_senior
+masculinoseparado   urbana      33.8nao   adulto_jovem
+feminino solteiro   suburbana   39.7nao   adulto_senior
+masculinoseparado   urbana      27.6sim   adulto_senior
+masculinosolteiro   urbana       32sim    adolescente
+masculinosolteiro   urbana      28.6sim   adulto_jovem
+masculinoviuvo      suburbana   34.4sim   adulto_senior
+masculinocasado     rural       27.7nao   adulto_meia_idade
+feminino solteiro   urbana      35.8nao   adulto_meia_idade
+feminino solteiro   suburbana   27.2sim   adolescente
+feminino solteiro   urbana      36.6nao   adulto_meia_idade
+feminino solteiro   urbana      32.9nao   adulto_meia_idade
+masculinosolteiro   urbana      33.9nao   adolescente
+masculinosolteiro   urbana      28.8nao   adulto_jovem
+feminino separado   urbana      39.7nao   adulto_senior
+feminino casado     urbana      19.3nao   adulto_meia_idade
+feminino casado     suburbana    28nao    adulto_meia_idade
+feminino casado     urbana       24nao    adulto_meia_idade
+feminino separado   urbana      22.5nao   adulto_jovem
+masculinoseparado   urbana      33.5nao   adulto_senior
+feminino solteiro   suburbana   41.7nao   adulto_senior
+masculinoseparado   suburbana   35.9nao   adulto_senior
+masculinoviuvo      rural       27.2nao   adulto_jovem
+feminino casado     rural       17.1nao   adulto_meia_idade
+feminino solteiro   urbana      30.3nao   adulto_jovem
+feminino solteiro   rural       40.2nao   adolescente
+feminino solteiro   urbana      32.6nao   adulto_meia_idade
+feminino separado   suburbana   28.4nao   adulto_jovem
+feminino casado     urbana      20.3nao   adulto_senior
+feminino casado     urbana      31.9nao   adulto_senior
+masculinosolteiro   suburbana   35.3nao   jovem
+masculinoviuvo      urbana      35.6sim   adulto_jovem
+masculinoviuvo      urbana      21.2nao   idoso
+masculinosolteiro   urbana      23.8nao   jovem
+feminino solteiro   rural       28.7nao   adulto_jovem
+feminino solteiro   suburbana   23.8nao   adolescente
+feminino casado     urbana      22.8sim   adulto_meia_idade
+masculinosolteiro   urbana      39.4nao   jovem
+masculinosolteiro   urbana      34.1nao   adulto_meia_idade
+masculinocasado     urbana      30.7nao   adulto_jovem
+feminino casado     suburbana   32.5nao   adulto_jovem
+feminino separado   urbana      31.1nao   adulto_jovem
+masculinosolteiro   suburbana    40nao    adulto_meia_idade
+feminino solteiro   rural       28.9nao   adulto_senior
+masculinosolteiro   urbana      26.8nao   adulto_meia_idade
+masculinocasado     urbana      34.5nao   adulto_meia_idade
+feminino solteiro   rural       28.5nao   adulto_senior
+
